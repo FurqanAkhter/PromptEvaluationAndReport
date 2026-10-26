@@ -1,0 +1,17 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "68",
+      "goal": "Marathon training with a 20km long run scheduled for tomorrow afternoon",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan includes pre-workout, during-workout, and post-workout nutrition timed appropriately around the long training session",
+      "Daily carbohydrate intake supports high-endurance training with easily digestible options",
+      "All meals are compact and concise, fitting in a single-day format"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring high carbohydrate intake and specific timing around long training sessions, ensuring the meal plan balances energy density with digestibility and includes pre/during/post-workout nutrition strategies"
+  }
+]

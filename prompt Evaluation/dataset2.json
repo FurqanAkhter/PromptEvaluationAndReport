@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Extract the AWS account ID from an ARN string like 'arn:aws:s3:::my-bucket/path/to/object'",
+    "format": "regex"
+  },
+  {
+    "task": "Create a JSON CloudFormation template parameter object for an EC2 instance type with allowed values of t2.micro, t2.small, and t2.medium",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function that takes an S3 bucket name and returns True if it follows AWS naming conventions (lowercase, 3-63 characters, only hyphens and alphanumeric)",
+    "format": "python"
+  }
+]
